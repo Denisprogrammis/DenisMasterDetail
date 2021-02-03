@@ -47,31 +47,6 @@ namespace masterAUTO
                 Detail = "Модель, двигатель, Цена",
                 ImagePath = "merc.jpg",
                 TargetPage = typeof(Views.bmw)
-
-            });
-            list.Add(new MasterMenuItems()
-            {
-                Text = "Volkswagen",
-                Detail = "Модель, двигатель, Цена",
-                ImagePath = "volks.jpg",
-                TargetPage = typeof(Views.bmw)
-
-            });
-            list.Add(new MasterMenuItems()
-            {
-                Text = "Toyota",
-                Detail = "Модель, двигатель, Цена",
-                ImagePath = "toyota.jpg",
-                TargetPage = typeof(Views.bmw)
-
-            });
-            list.Add(new MasterMenuItems()
-            {
-                Text = "Nissan",
-                Detail = "Модель, двигатель, Цена",
-                ImagePath = "nissan.jpg",
-                TargetPage = typeof(Views.bmw)
-
             });
             list.Add(new MasterMenuItems()
             {
@@ -86,14 +61,6 @@ namespace masterAUTO
                 Text = "Saab",
                 Detail = "Модель, двигатель, Цена",
                 ImagePath = "saab.png",
-                TargetPage = typeof(Views.bmw)
-
-            });
-            list.Add(new MasterMenuItems()
-            {
-                Text = "Volvo",
-                Detail = "Модель, двигатель, Цена",
-                ImagePath = "volvo.jpg",
                 TargetPage = typeof(Views.bmw)
 
             });

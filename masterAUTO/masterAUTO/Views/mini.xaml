@@ -10,8 +10,6 @@
                 <Picker.Items>
                     <x:String>Mini Jonh Cooper Works F56</x:String>
                     <x:String>Mini Jonh Cooper Works R56</x:String>
-                    <x:String></x:String>
-                    <x:String></x:String>
                 </Picker.Items>
             </Picker>
         </StackLayout>

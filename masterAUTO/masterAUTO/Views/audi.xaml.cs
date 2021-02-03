@@ -16,5 +16,10 @@ namespace masterAUTO.Views
         {
             InitializeComponent();
         }
+
+        private void picker_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }
